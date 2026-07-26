@@ -28,13 +28,15 @@ Lo scopo di questa repository è documentare il mio percorso di studio, esercita
 1. Clona la repository:
 
 ```bash
-git clone <URL_DELLA_REPOSITORY>
+git clone Python-Projects
+
 ```
 
 2. Entra nella cartella del progetto:
 
 ```bash
-cd <NOME_REPOSITORY>
+cd Python-Projects
+
 ```
 
 3. Esegui il file desiderato:
